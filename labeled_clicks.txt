@@ -1,0 +1,27 @@
+inputs,561,243
+define weather,605,364
+precip,576,935
+temp,577,979
+humidity,577,1026
+wind,974,938
+solar,974,986
+file,931,1108
+load weather,1136,1222
+ok,1700,1094
+exit_weather,1221,393
+inputs again,599,249
+edit inputs,602,411
+scenario definition,1009,423
+click sample scenario,555,641
+add new scenario,577,1145
+NBYR,1033,770
+IYR,1013,820
+CO2,1018,1026
+save edits,1783,1139
+exit scenario,1788,1202
+simulation,879,248
+run model,875,288
+update inputs,1097,203
+ok_inputs,1628,1100
+run almanac,1109,291
+ok_finish,1769,1110
