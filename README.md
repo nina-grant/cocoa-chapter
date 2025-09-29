@@ -4,8 +4,13 @@
 
 This repository contains the code and supporting files used for the analyses in:  
 
-**Grant, N., Kiniry, J., and Aziz, F. (2025).** *Modeling the Impacts of Climate Change on Cocoa.* In: *Theobroma cacao – Past, Present and Future Insights* [Working Title]. IntechOpen.  
-DOI: [10.5772/intechopen.1011776](http://dx.doi.org/10.5772/intechopen.1011776)  
+> **Grant, N., Kiniry, J., and Aziz, F. (2025).** *Modeling the Impacts of Climate Change on Cocoa.* In: *Theobroma cacao – Past, Present and Future Insights* [Working Title]. IntechOpen. DOI: [10.5772/intechopen.1011776](http://dx.doi.org/10.5772/intechopen.1011776)  
+
+### 🙏 Acknowledgments
+
+Please cite the following if you use this code:
+
+> Grant, N. (2025). Code for 'Modeling the Impacts of Climate Change on Cocoa'. Zenodo. https://doi.org/10.5281/zenodo.17229362
 
 
 ---
@@ -42,9 +47,3 @@ This repo includes scripts and notebooks used to process climate data, run crop 
 
 - NASA NEX-GDDP CMIP6 climate projections: https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp
 - ALMANAC crop model (Kiniry et al. 1992) available at: https://www.ars.usda.gov/plains-area/temple-tx/grassland-soil-and-water-research-laboratory/docs/193226/
-
-## 🙏 Acknowledgments
-
-Please cite the publication if you use this code:
-
-Grant, N., Kiniry, J., and Aziz, F. (2025). *Modeling the Impacts of Climate Change on Cocoa*. In: *Theobroma cacao – Past, Present and Future Insights.* IntechOpen. DOI: [10.5772/intechopen.1011776](http://dx.doi.org/10.5772/intechopen.1011776)
